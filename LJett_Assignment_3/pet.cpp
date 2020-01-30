@@ -1,4 +1,6 @@
 #include "pet.h"
+#include <iostream>
+using namespace std;
 
 void Pet::SetName(string petName) {
   name = petName;

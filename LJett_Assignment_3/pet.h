@@ -27,3 +27,5 @@ class Pet {
     string type;
     double weight;
 };
+
+#endif
